@@ -6,7 +6,7 @@
 
 > ⚠️ **EXPERIMENTAL USE ONLY** - This MCP Server is provided as an example for educational and experimental purposes only. It is NOT intended for production use. Please use appropriate security measures and thoroughly test before considering any kind of deployment.
 
-> **📢 FORK NOTICE**: This is a modified version of the original MSSQL MCP Server with **Windows Authentication support** and **read-only mode for safety**. See [FORK_CHANGES.md](../FORK_CHANGES.md) for detailed information about the changes.
+> **📢 FORK NOTICE**: This is a modified version of the original MSSQL MCP Server with **Windows Authentication support** and **read-only mode for safety**.
 
 ## What is this? 🤔
 
