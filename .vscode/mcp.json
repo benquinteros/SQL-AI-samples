@@ -1,0 +1,17 @@
+{
+  "servers": {
+    "mssql-nodejs": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["path/to/your/MssqlMcp/Node/dist/index.js"],
+      "env": {
+        "AUTH_TYPE": "windows",
+        "SERVER_NAME": "your-server-name.database.windows.net",
+        "PORT": "1433",
+        "DATABASE_NAME": "YourDatabaseName",
+        "READONLY": "false",
+        "TRUST_SERVER_CERTIFICATE": "true"
+      }
+    }
+  }
+}
