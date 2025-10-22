@@ -5,7 +5,7 @@
 
 .DS_Store
 .env
-
+.vscode
 AzureSQLPromptFlowSamples/src/sql-promptflow-demo/configs/flow_config.json
 AzureSQLPromptFlowSamples/src/sql-promptflow-demo/configs/key_config_local.json
 AzureSQLPromptFlowSamples/src/sql-promptflow-demo/promptflow/flow.dag.yaml
