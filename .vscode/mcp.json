@@ -9,7 +9,7 @@
         "SERVER_NAME": "your-server-name.database.windows.net",
         "PORT": "1433",
         "DATABASE_NAME": "YourDatabaseName",
-        "READONLY": "false",
+        "READONLY": "true",
         "TRUST_SERVER_CERTIFICATE": "true"
       }
     }
